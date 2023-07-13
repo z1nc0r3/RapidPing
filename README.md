@@ -1,4 +1,4 @@
-# RapidPIng
+# RapidPing
 
 ## A simple Ping tool for ping bulk list of URLs
 
